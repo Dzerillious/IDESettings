@@ -12,7 +12,7 @@ Usefull New Git user experience
 
 Is usefull to hide some bars to reduce noise and make view more accessible and more simple.
 
-Used
+### Used
 * File - basic stuff
 * View - for setting window visibility (can be shown with search all)
 * Debug - for additional debug options
@@ -21,7 +21,7 @@ Used
 * Tools - all installed tools
 * ReShaper - reshaper functionality
 * Window - splitting, workspace
-Not needed 
+### Not needed 
 * Project - (found in solution explorer)
 * Extensions - (move into tools)
 * Build - (shortcuts and search all)
